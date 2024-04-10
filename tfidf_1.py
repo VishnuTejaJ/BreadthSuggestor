@@ -4,6 +4,7 @@ import pandas as pd
 
 # Corpus Processing
 import re
+!pip install nltk
 import nltk.corpus
 from unidecode                        import unidecode
 from nltk.tokenize                    import word_tokenize
