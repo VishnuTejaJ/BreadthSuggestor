@@ -1,0 +1,5 @@
+nltk
+unidecode
+scikit-learn
+matplotlib
+seaborn
