@@ -17,15 +17,6 @@ from sklearn.cluster import KMeans
 
 # Visualization and Analysis
 import matplotlib.pyplot  as plt
-import matplotlib.cm      as cm
-import seaborn            as sns
-from sklearn.metrics                  import silhouette_samples, silhouette_score
-from wordcloud                        import WordCloud
-
-# Map Viz
-import folium
-#import branca.colormap as cm
-from branca.element import Figure
 
 
 def career_func(desired_career):
